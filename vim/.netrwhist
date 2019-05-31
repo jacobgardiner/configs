@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/jgardiner/geek/code/ruby-darknet-crawler'
+let g:netrw_dirhist_2='/Users/jgardiner/geek/code'
+let g:netrw_dirhist_3='/Users/jgardiner/geek/code/ruby-darknet-crawler'
+let g:netrw_dirhist_4='/usr/local/share/fish/vendor_completions.d'
+let g:netrw_dirhist_5='/Users/jgardiner/geek/code/rails-darknet-crawler'
